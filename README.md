@@ -1,1 +1,4 @@
-# text2imgGAN
+# Synthetic Image Generation from Textual Description
+## GAN-CLS Implementation (BTech Major 1 Project)
+
+Automatically generating realistic visuals from text would be fascinating and valuable, but existing AI systems are still a long way from achieving this aim. In recent years, however, general and powerful recurrent neural network designs for learning discriminative text feature representations have been constructed. Meanwhile, deep convolutional generative adversarial networks(GANs) have started to produce highly engaging images of certain categories like faces, record covers, and room interiors. In this paper, we use a novel deep architecture and GAN formulation to bridge the gap between text and picture modelling, efficiently transferring visual notions from characters to pixels. Our model is shown to be capable of generating credible images of birds from comprehensive text descriptions.
